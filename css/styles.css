@@ -303,6 +303,17 @@ img {
     margin-bottom: 8px;
 }
 
+.advantages-icon-thumb {
+    display: flex;
+    background-color: var(--secondary-white-color);
+    width: 264px;
+    height: 112px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
+
 /* what are we doing section */
 .doing-section {
     padding-bottom: 120px;
